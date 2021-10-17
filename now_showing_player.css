@@ -1,4 +1,16 @@
-.jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container {
+.jwplayer.jw-skin-now-showing .jw-display-controls .jw-display-icon-container {
+	display: none;
+}
+
+.jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container .jw-icon-playback {
+	display: none;
+}
+
+.jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container .jw-icon-rewind {
+	display: none;
+}
+
+.jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container .jw-icon-next {
 	display: none;
 }
 
@@ -17,4 +29,6 @@
 
 .jwplayer.jw-skin-now-showing .jw-controlbar .jw-slider-time .jw-slider-container .jw-knob {
     display: none;
+    pointer-events: none;
+    cursor: context-menu;
 }
