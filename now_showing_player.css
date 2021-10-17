@@ -28,7 +28,12 @@
 }
 
 .jwplayer.jw-skin-now-showing .jw-controlbar .jw-slider-time .jw-slider-container .jw-knob {
-    display: none;
+    background-color: rgb(197, 18, 221);
     pointer-events: none;
     cursor: context-menu;
+}
+
+.jwplayer.jw-skin-now-showing .jw-controlbar .jw-slider-time .jw-slider-container {
+    pointer-events: none;
+    cursor: context-menu;   
 }
