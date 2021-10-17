@@ -1,12 +1,4 @@
-.jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container .jw-icon-playback {
-	display: none;
-}
-
-.jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container .jw-icon-rewind {
-	display: none;
-}
-
-.jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container .jw-icon-next {
+.jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container {
 	display: none;
 }
 
@@ -25,31 +17,4 @@
 
 .jwplayer.jw-skin-now-showing .jw-controlbar .jw-slider-time .jw-slider-container .jw-knob {
     display: none;
-}
-
-/* Customize colors/opacity of the settings menu */
-.jwplayer.jw-skin-now-showing .jw-settings-menu {
-	background-color: transparent;
-}
-
-/* .jwplayer.jw-skin-now-showing .jw-settings-menu .jw-settings-topbar {
-	background-color: #92dce5;
-} */
-
-/* .jwplayer.jw-skin-now-showing .jw-settings-menu .jw-settings-topbar .jw-icon:hover {
-	color: #1e1e1e;
-} */
-
-.jwplayer.jw-skin-now-showing .jw-settings-menu .jw-settings-submenu {
-	background-color: rgba(255, 255, 255, 0.65);
-}
-
-.jwplayer.jw-skin-now-showing .jw-settings-menu .jw-settings-content-item {
-	color: #1e1e1e;
-}
-
-.jwplayer.jw-skin-now-showing .jw-settings-menu .jw-settings-content-item:hover,
-.jwplayer.jw-skin-now-showing .jw-settings-menu .jw-settings-item-active {
-	color: #e5322c;
-	font-weight: bold;
 }
