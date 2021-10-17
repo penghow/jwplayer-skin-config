@@ -1,0 +1,45 @@
+/* Example: https://demos.jwplayer.com/custom-css-demo/assets/alaska.css */
+
+/* Customize colors of timeslider */
+.jwplayer.jw-skin-common .jw-controlbar .jw-slider-time .jw-slider-container .jw-rail {
+    background-color: rgba(120, 0, 144, 0.3);
+}
+
+.jwplayer.jw-skin-common .jw-controlbar .jw-slider-time .jw-slider-container .jw-buffer {
+    background-color: rgba(197, 18, 221, 0.5);
+}
+
+.jwplayer.jw-skin-common .jw-controlbar .jw-slider-time .jw-slider-container .jw-progress {
+    background-color: rgb(197, 18, 221);
+}
+
+.jwplayer.jw-skin-common .jw-controlbar .jw-slider-time .jw-slider-container .jw-knob {
+    background-color: rgb(197, 18, 221);
+}
+
+/* Customize colors/opacity of the settings menu */
+.jwplayer.jw-skin-common .jw-settings-menu {
+	background-color: transparent;
+}
+
+/* .jwplayer.jw-skin-common .jw-settings-menu .jw-settings-topbar {
+	background-color: #92dce5;
+} */
+
+/* .jwplayer.jw-skin-common .jw-settings-menu .jw-settings-topbar .jw-icon:hover {
+	color: #1e1e1e;
+} */
+
+.jwplayer.jw-skin-common .jw-settings-menu .jw-settings-submenu {
+	background-color: rgba(255, 255, 255, 0.65);
+}
+
+.jwplayer.jw-skin-common .jw-settings-menu .jw-settings-content-item {
+	color: #1e1e1e;
+}
+
+.jwplayer.jw-skin-common .jw-settings-menu .jw-settings-content-item:hover,
+.jwplayer.jw-skin-common .jw-settings-menu .jw-settings-item-active {
+	color: #e5322c;
+	font-weight: bold;
+}
