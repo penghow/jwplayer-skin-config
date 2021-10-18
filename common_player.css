@@ -1,5 +1,9 @@
 /* Example: https://demos.jwplayer.com/custom-css-demo/assets/alaska.css */
 
+.jwplayer.jw-skin-common .jw-rightclick {
+    display: none !important;
+}
+
 /* Customize colors of timeslider */
 .jwplayer.jw-skin-common .jw-controlbar .jw-slider-time .jw-slider-container .jw-rail {
     background-color: rgba(120, 0, 144, 0.3);

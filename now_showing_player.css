@@ -1,3 +1,7 @@
+.jwplayer.jw-skin-now-showing .jw-rightclick {
+    display: none !important;
+}
+
 .jwplayer.jw-skin-now-showing .jw-display-controls .jw-display-icon-container {
 	display: none;
 }
