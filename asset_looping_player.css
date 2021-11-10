@@ -23,6 +23,7 @@
     display: none;
 }
 
+.jwplayer.jw-skin-asset-looping .jw-controlbar .jw-button-container .jw-text-elapsed,
 .jwplayer.jw-skin-asset-looping .jw-controlbar .jw-button-container .jw-text-duration {
     display: none;
 }
