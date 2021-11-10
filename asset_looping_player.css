@@ -1,28 +1,28 @@
-.jwplayer.jw-skin-now-showing .jw-rightclick {
+.jwplayer.jw-skin-asset-looping .jw-rightclick {
     display: none !important;
 }
 
-.jwplayer.jw-skin-now-showing .jw-display-controls .jw-display-icon-container {
+.jwplayer.jw-skin-asset-looping .jw-display-controls .jw-display-icon-container {
 	display: none;
 }
 
-.jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container .jw-icon-playback {
+.jwplayer.jw-skin-asset-looping .jw-controlbar .jw-button-container .jw-icon-playback {
 	display: none;
 }
 
-.jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container .jw-icon-rewind {
+.jwplayer.jw-skin-asset-looping .jw-controlbar .jw-button-container .jw-icon-rewind {
 	display: none;
 }
 
-.jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container .jw-icon-next {
+.jwplayer.jw-skin-asset-looping .jw-controlbar .jw-button-container .jw-icon-next {
 	display: none;
 }
 
 /* Customize colors of timeslider */
-.jwplayer.jw-skin-now-showing .jw-controlbar .jw-slider-time {
+.jwplayer.jw-skin-asset-looping .jw-controlbar .jw-slider-time {
     display: none;
 }
 
-.jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container .jw-text-duration {
+.jwplayer.jw-skin-asset-looping .jw-controlbar .jw-button-container .jw-text-duration {
     display: none;
 }
