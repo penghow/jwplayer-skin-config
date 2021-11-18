@@ -1,21 +1,25 @@
+.jwplayer.jw-skin-now-showing .jw-title {
+    display: none;
+}
+
 .jwplayer.jw-skin-now-showing .jw-rightclick {
     display: none !important;
 }
 
 .jwplayer.jw-skin-now-showing .jw-display-controls .jw-display-icon-container {
-	display: none;
+    display: none;
 }
 
 .jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container .jw-icon-playback {
-	display: none;
+    display: none;
 }
 
 .jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container .jw-icon-rewind {
-	display: none;
+    display: none;
 }
 
 .jwplayer.jw-skin-now-showing .jw-controlbar .jw-button-container .jw-icon-next {
-	display: none;
+    display: none;
 }
 
 /* Customize colors of timeslider */
